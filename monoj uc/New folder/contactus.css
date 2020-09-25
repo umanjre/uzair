@@ -1,0 +1,13 @@
+body {background-color:skyblue;
+     }
+header { text-align: right}
+.text p {font-size: 500%;
+position: absolute;left: 20%;}
+body{background-image: url(paper3.jpg);
+     background-repeat: no-repeat;
+     background-size: 50%;}
+ footer  {
+     font-size:xx-large; 
+     position: absolute;bottom: 0;
+     padding: 5% 5%;
+right: 0;}    
